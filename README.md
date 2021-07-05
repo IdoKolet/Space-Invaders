@@ -1,6 +1,6 @@
 ![mainBG](https://user-images.githubusercontent.com/73475107/124445215-068b1100-dd88-11eb-8dab-cc6a86c706a1.png)
 
-# Space-Invaders
+# Space Invaders Assembly Game
 
 This game was made as an alternative assessment in assembly at 11th grade.  
 The game is built on the concept of the original space invaders game but with some changes.
